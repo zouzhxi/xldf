@@ -54,8 +54,8 @@
     , { position: [114.082963, 22.632292], title: "上品雅园店", type: '会员店2', tel: "18128848923", online: true, address: "深圳市龙岗区坂田街道上品雅园4栋商铺5" }
     , { position: [114.022716, 22.627052], title: "中航天逸店", type: '会员店2', tel: "18148531570", online: true, address: "龙华区区民治街道中航天逸花园B栋1052" }
     , { position: [114.144769, 22.585262], title: "湖景花园店", type: '会员店2', tel: "18148531517", online: true, address: "罗湖区东湖街道翠荫路276号淘金山湖景花园大门左边首铺" }
-    , { position: [113.84891, 22.603215], title: "万象新天店", type: '会员店2', tel: "", online: true, address: "宝安区西乡街道航城大道南侧香格丽湾园6栋34号" }
-    , { position: [113.982243, 22.562311], title: "俊峰丽舍店", type: '会员店2', tel: "", online: true, address: "南山区龙珠大道与龙珠七路交汇处俊峰丽舍花园3栋102" }
+    , { position: [113.84891, 22.603215], title: "香格丽湾店", type: '会员店2', tel: "19166215144", online: true, address: "宝安区西乡街道航城大道南侧香格丽湾园6栋34号" }
+    , { position: [113.982243, 22.562311], title: "俊峰丽舍店", type: '会员店2', tel: "18165747586", online: true, address: "南山区龙珠大道与龙珠七路交汇处俊峰丽舍花园3栋102" }
     
     , { position: [113.863042, 22.614769], title: "宝安桃源居", type: '会员店2.0', tel: "", online: true, address: "宝安桃源居东11区37号" }
     , { position: [113.914659, 22.721819], title: "光明正大城", type: '会员店2.0', tel: "", online: true, address: "光明区正大城勤诚达" }
