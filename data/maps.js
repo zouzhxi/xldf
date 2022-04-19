@@ -58,7 +58,7 @@
     , { position: [113.98271,22.560003], title: "俊峰丽舍店", type: '会员店2', tel: "18165747586", online: true, address: "南山区龙珠大道与龙珠七路交汇处俊峰丽舍花园3栋102" }
     , { position: [113.863042, 22.614769], title: "宝安桃源居", type: '会员店2', tel: "19166215034", online: true, address: "宝安桃源居东11区37号" }
     , { position: [113.914659, 22.721819], title: "光明正大城", type: '会员店2', tel: "19166218634", online: true, address: "光明区正大城勤诚达" }
-    , { position: [114.031938,22.646873], title: "龙华壹城中心店", type: '会员店2.0', tel: "19128453765", online: true, address: "龙华区东环一路旁壹城中心一期3栋113号" }
+    , { position: [114.031938,22.646873], title: "壹城中心店", type: '会员店2', tel: "19128453765", online: true, address: "龙华区东环一路旁壹城中心一期3栋113号" }
 
     , { position: [113.998871,22.54695], title: "福田深康店", type: '会员店2.0', tel: "", online: true, address: "福田区深康村" }
 	, { position: [114.252058, 22.710277], title: '龙岗金地龙城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区金地龙城中央1区D座' }
