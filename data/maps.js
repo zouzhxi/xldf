@@ -4,7 +4,7 @@
     { position: [113.906764, 22.51154], title: '前海店', type: '生活馆', tel: '18123621530', online:true, address: '广东省深圳市南山区南山街道山水情家园' },
     { position: [113.925851, 22.520431], title: '南光店', type: '生活馆', tel: '15338744226', online:false, address: '广东省深圳市南山区南山区南山街道南光社区海德二道392-1号' },
     { position: [113.905529, 22.535599], title: '龙海家园店', type: '生活馆', tel: '18165751283', online: true, address: '广东省深圳市南山区南头街道龙海家园龙海商业广场' },
-    { position: [113.922536, 22.517725], title: '亿利达店', type: '生活馆', tel: '18118750317', online:false, address: '广东省深圳市南山区南山街道创业路3117号亿利达大厦' },
+    { position: [113.922536, 22.517725], title: '亿利达店', type: '生活馆', tel: '18118750317', online:true, address: '广东省深圳市南山区南山街道创业路3117号亿利达大厦' },
     { position: [113.924974, 22.485158], title: '南海玫瑰园店', type: '生活馆', tel: '18123706925', online: true, address: '广东省深圳市南山区蛇口街道南海玫瑰花园一期' },
     { position: [113.904054, 22.572883], title: '中洲花园店', type: '生活馆', tel: '18118768915', online:true, address: '广东省深圳市宝安区新安街道创北三巷中洲·中央公园' }, //中洲花园店
     { position: [113.934759, 22.499335], title: '半岛花园店', type: '生活馆', tel: '17722533090', online: true, address: '广东省深圳市南山区海月路11附近' },
@@ -60,10 +60,10 @@
     , { position: [113.914659, 22.721819], title: "光明正大城", type: '会员店2', tel: "19166218634", online: true, address: "光明区正大城勤诚达" }
     , { position: [114.031938,22.646873], title: "壹城中心店", type: '会员店2', tel: "19128453765", online: true, address: "龙华区东环一路旁壹城中心一期3栋113号" }
 
-    , { position: [113.998871,22.54695], title: "福田深康店", type: '会员店2.0', tel: "", online: true, address: "福田区深康村" }
+    , { position: [113.998871,22.54695], title: "福田深康店", type: '会员店2.0', tel: "19129353275", online: true, address: "福田区深康村" }
 	, { position: [114.252058, 22.710277], title: '龙岗金地龙城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区金地龙城中央1区D座' }
-	, { position: [114.067098, 22.64574], title: '龙岗万科城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗雪岗工业区万科城一期C1商铺D106' }
-	, { position: [114.070806, 22.613606], title: '龙岗第五园店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区坂田街道万科第五园12栋首层南点北味旁'}//
+	, { position: [114.067098, 22.64574], title: '龙岗万科城店', type: '会员店2.0', tel: '19129356518', online: true, address: '深圳市龙岗雪岗工业区万科城一期C1商铺D106' }
+	, { position: [114.070806, 22.613606], title: '龙岗第五园店', type: '会员店2', tel: '19129355837', online: true, address: '深圳市龙岗区坂田街道万科第五园12栋首层南点北味旁'}//
 	, { position: [114.059876, 22.624434], title: '龙岗四季花城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区坂田街道万科四季花城杜鹃苑B09' }
 
     //,{ position: [113.832243, 22.642879], title: '。', type: '', tel: '',online:true,address: '' }
