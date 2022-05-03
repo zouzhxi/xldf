@@ -125,10 +125,11 @@ var datalist2={list:[
 ,{ day:27, sale:0, mt:0, el:0,weimob:26637.04, pay:76000.00 ,shgpay:0,hydpay:39400.00,qjdpay:7100.00,shgsale:0,hydsale:0,qjdsale:0}
 ,{ day:28, sale:0, mt:0, el:0,weimob:35370.42, pay:126772.00 ,shgpay:0,hydpay:56808.00,qjdpay:8000.00,shgsale:0,hydsale:0,qjdsale:0}
 ,{ day:29, sale:0, mt:0, el:0,weimob:22380.76, pay:56564.00 ,shgpay:0,hydpay:30232.00,qjdpay:600.00,shgsale:0,hydsale:0,qjdsale:0}
-,{ day:30, sale:0, mt:0, el:0,weimob:50635.52, pay:110700.00 ,shgpay:0,hydpay:75000.00,qjdpay:1600.00,shgsale:0,hydsale:0,qjdsale:0}
+,{ day:30, sale:0, mt:0, el:0,weimob:50635.52, pay:110700.00 ,shgpay:34100,hydpay:75000.00,qjdpay:1600.00,shgsale:0,hydsale:0,qjdsale:0}
 ]},
-{ month: 5, sale_month_total: 0, pay_month_total: 0, data: [
-	{ day:1, sale:0, mt:0, el:0,weimob:37163.66, pay:74400.00 ,shgpay:0,hydpay:47200.00,qjdpay:1200.00,shgsale:0,hydsale:0,qjdsale:0}
+{ month: 5, sale_month_total: 6108000, pay_month_total: 0, data: [
+	{ day:1, sale:0, mt:0, el:0,weimob:37163.66, pay:74400.00 ,shgpay:26000,hydpay:47200.00,qjdpay:1200.00,shgsale:0,hydsale:0,qjdsale:0}
+      , { day:2, sale:0, mt:0, el:0,weimob:40334.32, pay:101263.90 ,shgpay:31700,hydpay:57163.90,qjdpay:12400.00,shgsale:0,hydsale:0,qjdsale:0}
 ]}
 
 ]};
