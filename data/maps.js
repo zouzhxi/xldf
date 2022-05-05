@@ -52,7 +52,7 @@
     { position: [114.305983, 22.600746], title: '大梅沙店', type: '会员店', tel: '18194005455', online: true, address: '深圳市盐田区梅沙街道东海岸社区艺海路1号云顶天海2号楼艺海路5号小荔饺子会员店' }, //大梅沙店
     { position: [114.124912, 22.593154], title: '锦绣园店', type: '会员店', tel: '18194054807', online: true, address: '深圳市龙岗区信义假日名城锦绣圆B栋商铺S108小荔饺子会员店' }, //锦绣园店	
     , { position: [114.082963, 22.632292], title: "上品雅园店", type: '会员店2', tel: "18128848923", online: true, address: "深圳市龙岗区坂田街道上品雅园4栋商铺5" }
-    , { position: [114.022716, 22.627052], title: "中航天逸店", type: '会员店2', tel: "18148531570", online: true, address: "龙华区区民治街道中航天逸花园B栋1052" }
+    , { position: [114.022628,22.62665], title: "中航天逸店", type: '会员店2', tel: "18148531570", online: true, address: "龙华区区民治街道中航天逸花园B栋1052" }
     , { position: [114.144769, 22.585262], title: "湖景花园店", type: '会员店2', tel: "18148531517", online: true, address: "罗湖区东湖街道翠荫路276号淘金山湖景花园大门左边首铺" }
     , { position: [113.84891, 22.603215], title: "香格丽湾店/万象新天店", type: '会员店2', tel: "19166215144", online: true, address: "宝安区西乡街道航城大道南侧香格丽湾园6栋34号" }
     , { position: [113.98271,22.560003], title: "俊峰丽舍店", type: '会员店2', tel: "18165747586", online: true, address: "南山区龙珠大道与龙珠七路交汇处俊峰丽舍花园3栋102" }
@@ -61,7 +61,7 @@
     , { position: [114.031938,22.646873], title: "壹城中心店", type: '会员店2', tel: "19128453765", online: true, address: "龙华区东环一路旁壹城中心一期3栋113号" }
 
     , { position: [113.998871,22.54695], title: "深康店", type: '会员店2', tel: "19129353275", online: true, address: "福田区深康村" }
-	, { position: [114.252058, 22.710277], title: '龙岗金地龙城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区金地龙城中央1区D座' }
+	, { position: [114.251038,22.711384], title: '龙岗金地龙城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区金地龙城中央1区D座' }
 	, { position: [114.067098, 22.64574], title: '万科城店', type: '会员店2', tel: '19129356518', online: true, address: '深圳市龙岗雪岗工业区万科城一期C1商铺D106' }
 	, { position: [114.070806, 22.613606], title: '第五园店', type: '会员店2', tel: '19129355837', online: true, address: '深圳市龙岗区坂田街道万科第五园12栋首层南点北味旁'}//
 	, { position: [114.059876, 22.624434], title: '龙岗四季花城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区坂田街道万科四季花城杜鹃苑B09' }
