@@ -65,6 +65,7 @@
 	, { position: [114.067098, 22.64574], title: '万科城店', type: '会员店2', tel: '19129356518', online: true, address: '深圳市龙岗雪岗工业区万科城一期C1商铺D106' }
 	, { position: [114.070806, 22.613606], title: '第五园店', type: '会员店2', tel: '19129355837', online: true, address: '深圳市龙岗区坂田街道万科第五园12栋首层南点北味旁'}//
 	, { position: [114.059876, 22.624434], title: '龙岗四季花城店', type: '会员店2.0', tel: '', online: true, address: '深圳市龙岗区坂田街道万科四季花城杜鹃苑B09' }
+,{ position: [113.927102,22.521322], title: '鸿瑞花园店', type: '会员店2.0', tel: '',online:true,address: '' }
 
     //,{ position: [113.832243, 22.642879], title: '。', type: '', tel: '',online:true,address: '' }
 ];
