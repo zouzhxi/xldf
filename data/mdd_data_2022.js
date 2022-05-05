@@ -119,13 +119,14 @@ var datalist2={list:[
 { day:21, sale:100714.49, mt:20596.3, el:9181.4,weimob:28846.21, pay:72900 ,shgpay:26700,hydpay:46200,qjdpay:0,shgsale:100755,hydsale:66965,qjdsale:3212.7},
 { day:22, sale:92534.6, mt:16994.52, el:10002.58,weimob:18101.8, pay:53800 ,shgpay:25500,hydpay:25100,qjdpay:3200,shgsale:92822.4,hydsale:42364.7,qjdsale:9292},
 { day:23, sale:120328.22, mt:20505.58, el:9289.38,weimob:38950.77, pay:94500 ,shgpay:27900,hydpay:64600,qjdpay:2000,shgsale:104229.6,hydsale:82830.32,qjdsale:19412.7},
-{ day:24, sale:93893.4, mt:18453.32, el:10116.86,weimob:22957.95, pay:89100 ,shgpay:41200,hydpay:37400,qjdpay:10500,shgsale:97250.2,hydsale:55074.75,qjdsale:3255.9}
-,{ day:25, sale:0, mt:27646.14, el:9981.42,weimob:20293.68, pay:58900.00 ,shgpay:30200,hydpay:28500.00,qjdpay:200.00,shgsale:0,hydsale:0,qjdsale:0}
-,{ day:26, sale:0, mt:27316.82, el:10272.92,weimob:24531.70, pay:85400.00 ,shgpay:31400,hydpay:42500.00,qjdpay:11500.00,shgsale:0,hydsale:0,qjdsale:0}
-,{ day:27, sale:0, mt:28513.82, el:10776.76,weimob:26637.04, pay:76000.00 ,shgpay:29500,hydpay:39400.00,qjdpay:7100.00,shgsale:0,hydsale:0,qjdsale:0}
-,{ day:28, sale:0, mt:19635.41, el:10486.90,weimob:35370.42, pay:126772.00 ,shgpay:61964,hydpay:56808.00,qjdpay:8000.00,shgsale:0,hydsale:0,qjdsale:0}
-,{ day:29, sale:0, mt:20553.46, el:8611.74,weimob:22380.76, pay:56564.00 ,shgpay:25732,hydpay:30232.00,qjdpay:600.00,shgsale:0,hydsale:0,qjdsale:0}
-,{ day:30, sale:0, mt:18652.80, el:7767.28,weimob:50635.52, pay:110700.00 ,shgpay:34100,hydpay:75000.00,qjdpay:1600.00,shgsale:0,hydsale:0,qjdsale:0}
+{ day:24, sale:93893.4, mt:18453.32, el:10116.86,weimob:22957.95, pay:89100 ,shgpay:41200,hydpay:37400,qjdpay:10500,shgsale:97250.2,hydsale:55074.75,qjdsale:3255.9},
+{ day:25, sale:94863.2, mt:27646.14, el:9981.42,weimob:20293.68, pay:58900 ,shgpay:30200,hydpay:28500,qjdpay:200,shgsale:104950.9,hydsale:44972.64,qjdsale:8233},
+{ day:26, sale:93722.92, mt:27316.82, el:10272.92,weimob:24531.7, pay:85400 ,shgpay:31400,hydpay:42500,qjdpay:11500,shgsale:105657.4,hydsale:54126.3,qjdsale:5996.3},
+{ day:27, sale:115866.868, mt:28513.82, el:10776.76,weimob:26637.04, pay:76000 ,shgpay:29500,hydpay:39400,qjdpay:7100,shgsale:112142.556,hydsale:61733.642,qjdsale:19537.1},
+{ day:28, sale:115182.5, mt:19635.41, el:10486.9,weimob:35370.42, pay:126772 ,shgpay:61964,hydpay:56808,qjdpay:8000,shgsale:105474.5,hydsale:72437.3,qjdsale:9679.8},
+{ day:29, sale:96908.724, mt:20553.46, el:8611.74,weimob:22380.76, pay:56564 ,shgpay:25732,hydpay:30232,qjdpay:600,shgsale:104242.268,hydsale:51832.476,qjdsale:3148.5},
+{ day:30, sale:101859.46, mt:18652.8, el:7767.28,weimob:50635.52, pay:110700 ,shgpay:34100,hydpay:75000,qjdpay:1600,shgsale:100671.6,hydsale:88637.96,qjdsale:4698.7},
+
 ]},
 { month: 5, sale_month_total: 6108000, pay_month_total: 0, data: [
         { day:1, sale:80757.434, mt:21344.68, el:6688.98,weimob:37163.66, pay:74400 ,shgpay:26000,hydpay:47200,qjdpay:1200,shgsale:85765.9,hydsale:69678.864,qjdsale:3018.9},
