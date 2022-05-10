@@ -61,10 +61,11 @@
     , { position: [114.031938,22.646873], title: "壹城中心店", type: '会员店2', tel: "19128453765", online: true, address: "龙华区东环一路旁壹城中心一期3栋113号" }
 
     , { position: [113.998871,22.54695], title: "深康店", type: '会员店2', tel: "19129353275", online: true, address: "福田区深康村" }
-    , { position: [114.251038,22.711384], title: '金地龙城店/龙城中央店', type: '会员店2.0', tel: '17722596508', online: true, address: '深圳市龙岗区金地龙城中央1区D座' }
+    , { position: [114.251038,22.711384], title: '金地龙城店/龙城中央店', type: '会员店2', tel: '17722596508', online: true, address: '深圳市龙岗区龙岗街道金地凯旋广场1栋D单元130' }
     , { position: [114.067098, 22.64574], title: '万科城店', type: '会员店2', tel: '19129356518', online: true, address: '深圳市龙岗雪岗工业区万科城一期C1商铺D106' }
     , { position: [114.070806, 22.613606], title: '第五园店', type: '会员店2', tel: '19129355837', online: true, address: '深圳市龙岗区坂田街道万科第五园12栋首层南点北味旁'}//
-    , { position: [114.059876, 22.624434], title: '四季花城店', type: '会员店2.0', tel: '17722660527', online: true, address: '深圳市龙岗区坂田街道万科四季花城杜鹃苑B09' }
+    
+, { position: [114.059876, 22.624434], title: '四季花城店', type: '会员店2.0', tel: '17722660527', online: true, address: '深圳市龙岗区坂田街道万科四季花城杜鹃苑B09' }
 ,{ position: [113.927102,22.521322], title: '鸿瑞花园店', type: '会员店2.0', tel: '',online:true,address: '' }
 
     //,{ position: [113.832243, 22.642879], title: '。', type: '', tel: '',online:true,address: '' }
