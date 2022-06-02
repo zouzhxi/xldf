@@ -162,6 +162,7 @@ var datalist2={list:[
 	{ day: 31, sale: 105815.994, mt: 22859.1, el: 7837.66, weimob: 24774.1, pay: 94352, shgpay: 39368, hydpay: 42584, qjdpay: 12400, shgsale: 102564.484, hydsale: 59121.34, qjdsale: 5425.8 },
 ]},
 {month: 6, sale_month_total: 7126347, pay_month_total: 2514341, data: [
+	{ day: 1, sale: 91996.2, mt: 30596.68, el: 14690.58, weimob: 22966.3, pay: 67360, shgpay: 34928, hydpay: 26872, qjdpay: 5560, shgsale: 113335.9, hydsale: 38072.6, qjdsale: 10637.6 },
 
 ]}
 
