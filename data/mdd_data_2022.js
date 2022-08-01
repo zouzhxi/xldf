@@ -227,7 +227,7 @@ var datalist2={list:[
 
 ]},
 	{
-		month: 8, sale_month_total:7499426, pay_month_total: 0, data: [
+		month: 8, sale_month_total: 7499426, pay_month_total: 2289000, data: [
 
 ]}
 ]};
