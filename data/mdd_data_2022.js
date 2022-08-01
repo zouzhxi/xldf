@@ -222,9 +222,12 @@ var datalist2={list:[
 	{ day: 27, sale: 101151.365, mt: 36437.4, el: 11991.2, weimob: 25719.89, pay: 46966.5, shgpay: 25300, hydpay: 20266.5, qjdpay: 1400, shgsale: 117006.2, hydsale: 54042.275, qjdsale: 11749.9 },
 	{ day: 28, sale: 108586.83, mt: 39370.26, el: 13169.62, weimob: 32641.81, pay: 102652, shgpay: 47572, hydpay: 43104, qjdpay: 11976, shgsale: 126547.75, hydsale: 68893.54, qjdsale: 7408.6 },
 	{ day: 29, sale: 104106.74, mt: 34018.78, el: 11145.1, weimob: 31309.02, pay: 60400, shgpay: 33400, hydpay: 26600, qjdpay: 400, shgsale: 119711.55, hydsale: 62622.55, qjdsale: 5572.4 },
+	{ day: 30, sale: 108877.284, mt: 30712.02, el: 9089.22, weimob: 32249.51, pay: 60100, shgpay: 27200, hydpay: 32200, qjdpay: 700, shgsale: 112900.436, hydsale: 67968.168, qjdsale: 8334.7 },
+	{ day: 31, sale: 101335.16, mt: 26308.07, el: 10490.38, weimob: 32769.39, pay: 66500, shgpay: 27200, hydpay: 26900, qjdpay: 12400, shgsale: 107601.6, hydsale: 58557.65, qjdsale: 9920.6 },
 
 ]},
-{month: 8, sale_month_total: 0, pay_month_total: 0, data: [
+	{
+		month: 8, sale_month_total:7499426, pay_month_total: 0, data: [
 
 ]}
 ]};
