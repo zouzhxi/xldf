@@ -227,7 +227,8 @@ var datalist2={list:[
 
 ]},
 {month: 8, sale_month_total: 7499426, pay_month_total: 2289000, data: [
-	{ day: 1, sale: 95130.04, mt: 32958.53, el: 9068.12, weimob: 28879.26, pay: 54900, shgpay: 26200, hydpay: 27300, qjdpay: 1400, shgsale: 110074.3, hydsale: 56873.55, qjdsale: 7814.5 },
+	{ day: 1, sale: 95130.04, mt: 32958.53, el: 9068.22, weimob: 28879.26, pay: 54900, shgpay: 26200, hydpay: 27300, qjdpay: 1400, shgsale: 110074.3, hydsale: 56873.55, qjdsale: 7814.5 },
+	{ day: 2, sale: 102101.82, mt: 34179.2, el: 11281.6, weimob: 28180.27, pay: 60700, shgpay: 23100, hydpay: 24200, qjdpay: 13400, shgsale: 113115.2, hydsale: 57293.2, qjdsale: 12961.7 },
 
 	
 	]}
