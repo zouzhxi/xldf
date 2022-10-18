@@ -308,6 +308,7 @@ var datalist2={list:[
 		{ day: 14, sale: 104424, mt: 18496.02, el: 7106.9, weimob: 43186.32, pay: 50400, shgpay: 25700, hydpay: 23900, qjdpay: 1000, shgsale: 100522.7, hydsale: 75521.2, qjdsale: 2650.8 },
 		{ day: 15, sale: 112715.05, mt: 30437.9, el: 9062.74, weimob: 43731.24, pay: 76622.6, shgpay: 35500, hydpay: 29822.6, qjdpay: 11300, shgsale: 113237.2, hydsale: 79785.45, qjdsale: 8770.9 },
 		{ day: 16, sale: 109456.32, mt: 34197.52, el: 13001.08, weimob: 41091.96, pay: 63300, shgpay: 28200, hydpay: 32900, qjdpay: 2200, shgsale: 117901.5, hydsale: 72337.85, qjdsale: 8682.4 },
+		{ day: 17, sale: 93103.31, mt: 32841.58, el: 12374.9, weimob: 31398.95, pay: 58811.5, shgpay: 24811.5, hydpay: 32500, qjdpay: 1500, shgsale: 109117.8, hydsale: 65749.9, qjdsale: 3441.3 },
 
 ]}
 ]};
