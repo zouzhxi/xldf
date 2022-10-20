@@ -306,9 +306,11 @@ var datalist2={list:[
 		{ day: 12, sale: 111512.02, mt: 20328, el: 8010.76, weimob: 42115.81, pay: 63057.8, shgpay: 29857.8, hydpay: 30800, qjdpay: 2400, shgsale: 105527.7, hydsale: 74797.45, qjdsale: 9224.3 },
 		{ day: 13, sale: 111471.284, mt: 19648.54, el: 7935.2, weimob: 44377.68, pay: 60200, shgpay: 28900, hydpay: 30800, qjdpay: 500, shgsale: 107014.08, hydsale: 74438.724, qjdsale: 7618.5 },
 		{ day: 14, sale: 104424, mt: 18496.02, el: 7106.9, weimob: 43186.32, pay: 50400, shgpay: 25700, hydpay: 23900, qjdpay: 1000, shgsale: 100522.7, hydsale: 75521.2, qjdsale: 2650.8 },
-		{ day: 15, sale: 112715.05, mt: 30437.9, el: 9062.74, weimob: 43731.24, pay: 76622.6, shgpay: 35500, hydpay: 29822.6, qjdpay: 11300, shgsale: 113237.2, hydsale: 79785.45, qjdsale: 8770.9 },
-		{ day: 16, sale: 109456.32, mt: 34197.52, el: 13001.08, weimob: 41091.96, pay: 63300, shgpay: 28200, hydpay: 32900, qjdpay: 2200, shgsale: 117901.5, hydsale: 72337.85, qjdsale: 8682.4 },
-		{ day: 17, sale: 93103.31, mt: 32841.58, el: 12374.9, weimob: 31398.95, pay: 58811.5, shgpay: 24811.5, hydpay: 32500, qjdpay: 1500, shgsale: 109117.8, hydsale: 65749.9, qjdsale: 3441.3 },
+		{ day: 15, sale: 113665.75, mt: 30575.54, el: 9062.74, weimob: 43731.24, pay: 76622.6, shgpay: 35500, hydpay: 29822.6, qjdpay: 11300, shgsale: 113237.2, hydsale: 79785.45, qjdsale: 8770.9 },
+		{ day: 16, sale: 110956.02, mt: 34349.28, el: 13428.88, weimob: 41091.96, pay: 63300, shgpay: 28200, hydpay: 32900, qjdpay: 2200, shgsale: 117901.5, hydsale: 72337.85, qjdsale: 8682.4 },
+		{ day: 17, sale: 94048.41, mt: 32988.73, el: 12477.88, weimob: 31398.95, pay: 58811.5, shgpay: 24811.5, hydpay: 32500, qjdpay: 1500, shgsale: 109117.8, hydsale: 65749.9, qjdsale: 3441.3 },
+		{ day: 18, sale: 102578.394, mt: 36701.42, el: 25669.18, weimob: 34412.84, pay: 62800, shgpay: 23600, hydpay: 25700, qjdpay: 13500, shgsale: 111967, hydsale: 63779.714, qjdsale: 14120.7 },
+		{ day: 19, sale: 109921.78, mt: 27071.7, el: 13531.55, weimob: 33493.32, pay: 56600, shgpay: 24600, hydpay: 30100, qjdpay: 1900, shgsale: 106933.2, hydsale: 69600.7, qjdsale: 10050.8 },
 
 ]}
 ]};
